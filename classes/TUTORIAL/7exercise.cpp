@@ -11,7 +11,6 @@ class dist
 public:
     float dis(data, data);
 };
-
 class data
 {
 private:
