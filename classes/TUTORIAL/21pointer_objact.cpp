@@ -22,7 +22,7 @@ int main()
     vbj k, *ptr1, *ptr2;
     ptr1 = &k;
     ptr2 = new vbj;
-
+    cout << sizeof(vbj) << endl;
     (*ptr2).setdata(0, 1);
     (*ptr2).getdata();
 
