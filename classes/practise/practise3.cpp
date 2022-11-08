@@ -5,13 +5,9 @@ class worker
 {
 private:
     int a, b;
-    get
+};
 
-}
-
-int
-main()
+int main()
 {
-
     return 0;
 }
